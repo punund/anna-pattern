@@ -1,5 +1,6 @@
 dependencies:
   20ful: 0.2.7
+  ramda: 0.27.1
 lockfileVersion: 5.2
 packages:
   /20ful/0.2.7:
@@ -5768,3 +5769,4 @@ packages:
       integrity: sha1-AI4G2AlDIMNy28L47XagymyKxBk=
 specifiers:
   20ful: ^0.2.7
+  ramda: ^0.27.1

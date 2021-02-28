@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "20ful": "^0.2.7"
+    "20ful": "^0.2.7",
+    "ramda": "^0.27.1"
   }
 }
